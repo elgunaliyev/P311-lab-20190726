@@ -1,0 +1,41 @@
+a{
+    text-decoration: none;
+    color: white;
+}
+
+#welcome-section{
+    height: 100vh;
+    background-image:url('../img/header-bg.jpg');
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+header a, .logo-cst{
+    color: white;
+}
+
+#welcome-section a:hover{
+    color: #FEC503;
+}
+#welcome-section li{
+    font-size: 1.1em;
+    text-transform: uppercase;
+}
+
+.intro{
+    margin-top: 15%;
+}
+
+.intro p{
+    font-style: italic;
+    font-size: 3em;
+    color: #fff;
+}
+
+.intro h1{
+    font-size: 5em;
+    color: #fff;
+}
+.navbar-toggler{
+    background: #FEC503;
+}
