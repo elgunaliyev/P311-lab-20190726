@@ -17,6 +17,7 @@ header a, .logo-cst{
 #welcome-section a:hover{
     color: #FEC503;
 }
+
 #welcome-section li{
     font-size: 1.1em;
     text-transform: uppercase;
@@ -36,6 +37,14 @@ header a, .logo-cst{
     font-size: 5em;
     color: #fff;
 }
+
 .navbar-toggler{
     background: #FEC503;
+}
+
+.info-item{
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
